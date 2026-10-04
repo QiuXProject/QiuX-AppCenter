@@ -1,3 +1,4 @@
+<img width="1919" height="1079" alt="Zrzut ekranu 2026-10-04 164414" src="https://github.com/user-attachments/assets/1397054f-68c6-4d52-bca2-e05794be5b04" />
 <div align="center">
 
   <h1>🌌 QiuX AppCenter</h1>
@@ -73,6 +74,9 @@ Na samym początku użytkownik decyduje, w jakim trybie chce uruchomić aplikacj
 <p align="center">
   <img src="assets/01_wybor_uzytkownika.png" alt="Wybór trybu użytkownika" width="750"/>
   <br>
+ 
+  <img width="1919" height="1079" alt="Zrzut ekranu 2026-10-04 164414" src="https://github.com/user-attachments/assets/bb01aca4-e8db-4218-90b1-13f7555bd130" />
+
   <b>📸 [TUTAJ WSTAW ZDJĘCIE 1: Zrzut ekranu 'Jak chcesz korzystać?' - plik 'assets/01_wybor_uzytkownika.png']</b>[cite: 2]
 </p>
 
@@ -84,11 +88,17 @@ Aplikacja pyta użytkownika, czy posiada już licencję na pełny dostęp do eko
 
 <!-- ================================================================= -->
 <!-- 📸 ZDJĘCIE 2: PYTANIE O LICENCJĘ -->
+
+<img width="1919" height="1079" alt="Zrzut ekranu 2026-10-04 164433" src="https://github.com/user-attachments/assets/7150c55a-a104-4d9b-af26-df3873296d5c" />
+
 <!-- Wstaw tutaj Zrzut ekranu 2026-10-04 164433.jpg -->
 <!-- ================================================================= -->
 <p align="center">
   <img src="assets/02_pytanie_o_licencje.png" alt="Czy chcesz licencję?" width="750"/>
   <br>
+ 
+  <img width="1919" height="1079" alt="Zrzut ekranu 2026-10-04 164445" src="https://github.com/user-attachments/assets/002a66f7-ca65-49d8-923d-6809f297989d" />
+
   <b>📸 [TUTAJ WSTAW ZDJĘCIE 2: Zrzut ekranu 'Czy chcesz licencję?' - plik 'assets/02_pytanie_o_licencje.png']</b>[cite: 3]
 </p>
 
@@ -100,6 +110,9 @@ Ekran weryfikacji i wpisywania indywidualnego identyfikatora licencji (ID Licens
 
 <!-- ================================================================= -->
 <!-- 📸 ZDJĘCIE 3: WPISYWANIE LICENCJI -->
+
+<img width="1919" height="1079" alt="Zrzut ekranu 2026-10-04 164504" src="https://github.com/user-attachments/assets/dc9db9c4-dd04-4cc8-a7de-0052e8d0a6d8" />
+
 <!-- Wstaw tutaj Zrzut ekranu 2026-10-04 164445.jpg lub 164504.jpg -->
 <!-- ================================================================= -->
 <p align="center">
@@ -117,6 +130,9 @@ Przed pierwszym pełnym uruchomieniem wymagane jest zapoznanie się i zaakceptow
 
 <!-- ================================================================= -->
 <!-- 📸 ZDJĘCIE 4: AKCEPTOWANIE REGULAMINU -->
+
+<img width="1919" height="1079" alt="Zrzut ekranu 2026-10-04 164528" src="https://github.com/user-attachments/assets/9fb152b6-6513-4e38-9f0f-b26d0d6bcb85" />
+
 <!-- Wstaw tutaj Zrzut ekranu 2026-10-04 164528.jpg -->
 <!-- ================================================================= -->
 <p align="center">
@@ -133,6 +149,8 @@ Pojawia się podczas inicjalizacji modułów systemowych oraz łączenia z centr
 
 <!-- ================================================================= -->
 <!-- 📸 ZDJĘCIE 5: EKRAN ŁADOWANIA -->
+
+
 <!-- Wstaw tutaj Zrzut ekranu 2026-10-04 164554.jpg -->
 <!-- ================================================================= -->
 <p align="center">
