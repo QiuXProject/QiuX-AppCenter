@@ -20,6 +20,7 @@
 > **Aplikacja w fazie testów (Wersja v0.5 Beta)**
 > Program **QiuX AppCenter** jest obecnie w intensywnej fazie rozwoju (jesteśmy w połowie fazy v0.5)[cite: 1]. Zaraz będziemy wychodzić ze wczesnej wersji[cite: 1]. Niektóre funkcje mogą ulegać zmianom lub działać nieprawidłowo[cite: 1].
 
+<img width="1919" height="1079" alt="Zrzut ekranu 2026-10-04 164403" src="https://github.com/user-attachments/assets/091c1cc4-0bdf-4f18-b5fc-7ef5b53d98c6" />
 ---
 
 ## 📖 Spis Treści
